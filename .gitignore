@@ -22,3 +22,4 @@ t.py
 
 t2.py
 tests/examples/tmp_*py
+.pybuild
