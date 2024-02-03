@@ -1,0 +1,4 @@
+python-requests-oauthlib source: file-without-copyright-information
+python-requests-oauthlib source: no-debian-changes
+python-requests-oauthlib source: source-contains-prebuilt-windows-binary
+python-requests-oauthlib source: source-package-encodes-python-version

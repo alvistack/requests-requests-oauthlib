@@ -1,0 +1,5 @@
+python-requests-oauthlib (100:1.4.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/requests/requests-oauthlib/releases/tag/v1.4.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Mon, 11 Mar 2024 09:06:28 +0800
